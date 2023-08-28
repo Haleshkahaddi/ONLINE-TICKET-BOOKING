@@ -15,9 +15,9 @@ Minimum Amount :<input type="text" name="bal"><br>
 <input type="submit">
 </form>
 <form action="diposite">
-
+Diposit Amount to Your Account <br>
 Enter AccoutNumber:<input type ="text" name="acc"><br>
-Minimum Amount :<input type="text" name="bal"><br>
+ Enter Amount :<input type="text" name="bal"><br>
 Enter Pin:<input type ="text" name="pin"><br>
 
 <input type="submit">
