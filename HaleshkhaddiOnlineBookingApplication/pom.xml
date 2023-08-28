@@ -46,11 +46,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-    	<groupId>com.movie</groupId>
-    	<artifactId>SignupProject</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
-    </dependency>
+    
   </dependencies>
   <build>
     <finalName>Movie12</finalName>
